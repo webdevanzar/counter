@@ -1,1 +1,2 @@
-const language='javascript'
+const language='java'
+const age = 32
